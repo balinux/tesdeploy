@@ -10,3 +10,4 @@ enter
 message
 url
 bold text
+markdown
